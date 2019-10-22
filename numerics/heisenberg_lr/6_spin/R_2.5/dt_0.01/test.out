@@ -1,0 +1,90 @@
+term  0
+active qubits  [0 1 2 3 4 5]
+operators: 
+XXIIII 0.5
+YYIIII 0.5
+ZZIIII 0.5
+term  1
+active qubits  [0 1 2 3 4 5]
+operators: 
+XIXIII 0.333333333333
+YIYIII 0.333333333333
+ZIZIII 0.333333333333
+term  2
+active qubits  [0 1 2 3 4 5]
+operators: 
+XIIXII 0.25
+YIIYII 0.25
+ZIIZII 0.25
+term  3
+active qubits  [0 1 2 3 4 5]
+operators: 
+XIIIXI 0.333333333333
+YIIIYI 0.333333333333
+ZIIIZI 0.333333333333
+term  4
+active qubits  [0 1 2 3 4 5]
+operators: 
+XIIIIX 0.5
+YIIIIY 0.5
+ZIIIIZ 0.5
+term  5
+active qubits  [0 1 2 3 4 5]
+operators: 
+IXXIII 0.5
+IYYIII 0.5
+IZZIII 0.5
+term  6
+active qubits  [0 1 2 3 4 5]
+operators: 
+IXIXII 0.333333333333
+IYIYII 0.333333333333
+IZIZII 0.333333333333
+term  7
+active qubits  [0 1 2 3 4 5]
+operators: 
+IXIIXI 0.25
+IYIIYI 0.25
+IZIIZI 0.25
+term  8
+active qubits  [0 1 2 3 4 5]
+operators: 
+IXIIIX 0.333333333333
+IYIIIY 0.333333333333
+IZIIIZ 0.333333333333
+term  9
+active qubits  [0 1 2 3 4 5]
+operators: 
+IIXXII 0.5
+IIYYII 0.5
+IIZZII 0.5
+term  10
+active qubits  [0 1 2 3 4 5]
+operators: 
+IIXIXI 0.333333333333
+IIYIYI 0.333333333333
+IIZIZI 0.333333333333
+term  11
+active qubits  [0 1 2 3 4 5]
+operators: 
+IIXIIX 0.25
+IIYIIY 0.25
+IIZIIZ 0.25
+term  12
+active qubits  [0 1 2 3 4 5]
+operators: 
+IIIXXI 0.5
+IIIYYI 0.5
+IIIZZI 0.5
+term  13
+active qubits  [0 1 2 3 4 5]
+operators: 
+IIIXIX 0.333333333333
+IIIYIY 0.333333333333
+IIIZIZ 0.333333333333
+term  14
+active qubits  [0 1 2 3 4 5]
+operators: 
+IIIIXX 0.5
+IIIIYY 0.5
+IIIIZZ 0.5

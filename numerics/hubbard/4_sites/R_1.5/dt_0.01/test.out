@@ -1,0 +1,105 @@
+>>>>>>> sites  0 1
+neighborhood
+[0 1 2]
+[0, 1, 2, 3, 4, 5]
+-----
+interaction on site  0
+indices 0 1 6 1.0
+[3, 0, 0, 0, 0, 0]
+[0, 3, 0, 0, 0, 0]
+[3, 3, 0, 0, 0, 0]
+interaction on site  1
+indices 2 3 6 0.5
+[0, 0, 3, 0, 0, 0]
+[0, 0, 0, 3, 0, 0]
+[0, 0, 3, 3, 0, 0]
+kinetic
+spin  0
+[1, 3, 1, 0, 0, 0]
+[2, 3, 2, 0, 0, 0]
+spin  1
+[0, 1, 3, 1, 0, 0]
+[0, 2, 3, 2, 0, 0]
+>>>>>>> sites  1 2
+neighborhood
+[0 1 2 3]
+[0, 1, 2, 3, 4, 5, 6, 7]
+-----
+interaction on site  1
+indices 2 3 8 0.5
+[0, 0, 3, 0, 0, 0, 0, 0]
+[0, 0, 0, 3, 0, 0, 0, 0]
+[0, 0, 3, 3, 0, 0, 0, 0]
+interaction on site  2
+indices 4 5 8 0.5
+[0, 0, 0, 0, 3, 0, 0, 0]
+[0, 0, 0, 0, 0, 3, 0, 0]
+[0, 0, 0, 0, 3, 3, 0, 0]
+kinetic
+spin  0
+[0, 0, 1, 3, 1, 0, 0, 0]
+[0, 0, 2, 3, 2, 0, 0, 0]
+spin  1
+[0, 0, 0, 1, 3, 1, 0, 0]
+[0, 0, 0, 2, 3, 2, 0, 0]
+>>>>>>> sites  2 3
+neighborhood
+[1 2 3]
+[2, 3, 4, 5, 6, 7]
+-----
+interaction on site  2
+indices 2 3 6 0.5
+[0, 0, 3, 0, 0, 0]
+[0, 0, 0, 3, 0, 0]
+[0, 0, 3, 3, 0, 0]
+interaction on site  3
+indices 4 5 6 1.0
+[0, 0, 0, 0, 3, 0]
+[0, 0, 0, 0, 0, 3]
+[0, 0, 0, 0, 3, 3]
+kinetic
+spin  0
+[0, 0, 1, 3, 1, 0]
+[0, 0, 2, 3, 2, 0]
+spin  1
+[0, 0, 0, 1, 3, 1]
+[0, 0, 0, 2, 3, 2]
+term  0
+active qubits  [0, 1, 2, 3, 4, 5]
+operators: 
+IIIZII -0.0625
+IIZIII -0.0625
+IIZZII 0.125
+IXZXII -0.5
+IYZYII -0.5
+IZIIII -0.125
+XZXIII -0.5
+YZYIII -0.5
+ZIIIII -0.125
+ZZIIII 0.25
+term  1
+active qubits  [0, 1, 2, 3, 4, 5, 6, 7]
+operators: 
+IIIIIZII -0.0625
+IIIIZIII -0.0625
+IIIIZZII 0.125
+IIIXZXII -0.5
+IIIYZYII -0.5
+IIIZIIII -0.0625
+IIXZXIII -0.5
+IIYZYIII -0.5
+IIZIIIII -0.0625
+IIZZIIII 0.125
+term  2
+active qubits  [2, 3, 4, 5, 6, 7]
+operators: 
+IIIIIZ -0.125
+IIIIZI -0.125
+IIIIZZ 0.25
+IIIXZX -0.5
+IIIYZY -0.5
+IIIZII -0.0625
+IIXZXI -0.5
+IIYZYI -0.5
+IIZIII -0.0625
+IIZZII 0.125

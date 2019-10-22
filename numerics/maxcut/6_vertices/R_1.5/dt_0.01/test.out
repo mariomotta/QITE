@@ -1,0 +1,31 @@
+term  0
+active qubits  [0 2 3]
+operators: 
+III -0.5
+ZIZ 0.5
+term  1
+active qubits  [1 2 4 5]
+operators: 
+IIII -0.5
+ZIZI 0.5
+term  2
+active qubits  [0 2 3 4 5]
+operators: 
+IIIII -0.5
+IZZII 0.5
+term  3
+active qubits  [1 2 3 4 5]
+operators: 
+IIIII -0.5
+IZIZI 0.5
+term  4
+active qubits  [2 3 4 5]
+operators: 
+IIII -0.5
+ZIIZ 0.5
+term  5
+active qubits  [1 2 4 5]
+operators: 
+IIII -0.5
+IIZZ 0.5
+HOM mf-energy  -2.99999999998

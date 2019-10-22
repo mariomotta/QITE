@@ -1,0 +1,36 @@
+term  0
+active qubits  [0 1 2 3]
+operators: 
+XXII 0.5
+YYII 0.5
+ZZII 0.5
+term  1
+active qubits  [0 1 2 3]
+operators: 
+XIXI 0.333333333333
+YIYI 0.333333333333
+ZIZI 0.333333333333
+term  2
+active qubits  [0 1 2 3]
+operators: 
+XIIX 0.5
+YIIY 0.5
+ZIIZ 0.5
+term  3
+active qubits  [0 1 2 3]
+operators: 
+IXXI 0.5
+IYYI 0.5
+IZZI 0.5
+term  4
+active qubits  [0 1 2 3]
+operators: 
+IXIX 0.333333333333
+IYIY 0.333333333333
+IZIZ 0.333333333333
+term  5
+active qubits  [0 1 2 3]
+operators: 
+IIXX 0.5
+IIYY 0.5
+IIZZ 0.5

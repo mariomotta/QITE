@@ -1,0 +1,24 @@
+term  0
+active qubits  [0 1]
+operators: 
+XX 1.0
+YY 1.0
+ZZ 1.0
+term  1
+active qubits  [1 2]
+operators: 
+XX 1.0
+YY 1.0
+ZZ 1.0
+term  2
+active qubits  [2 3]
+operators: 
+XX 1.0
+YY 1.0
+ZZ 1.0
+term  3
+active qubits  [0 3]
+operators: 
+XX 1.0
+YY 1.0
+ZZ 1.0

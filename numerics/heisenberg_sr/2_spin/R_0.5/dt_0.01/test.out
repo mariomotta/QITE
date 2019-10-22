@@ -1,0 +1,6 @@
+term  0
+active qubits  [0 1]
+operators: 
+XX 1.0
+YY 1.0
+ZZ 1.0
